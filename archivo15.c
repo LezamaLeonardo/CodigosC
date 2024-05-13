@@ -12,7 +12,7 @@ int main() {
         printf("Contraseña: ");
         scanf("%s", contrasena);
 
-        if (strcmp(usuario, "root") == 0 && strcmp(contrasena, "1234") == 0) {
+        if (strcmp(usuario, "Leonardo") == 0 && strcmp(contrasena, "16B2") == 0) {
             printf("Bienvenido al sistema\n");
             break;
         } else {
