@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+//versión 2 examen práctico 
 int main() {
     char usuario[20];
     char contrasena[20];
